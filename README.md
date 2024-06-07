@@ -1,7 +1,6 @@
 📊 GitHub Stats:
 
-![](https://raw.githubusercontent.com/johnnyalmd/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/johnnyalmd/github-stats/master/generated/overview.svg#gh-light-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com?user=johnnyalmd&theme=transparent&hide_border=true&border_radius=5&locale=pt_BR)](https://git.io/streak-stats)
 
 🏆 GitHub Trophies
 
