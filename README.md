@@ -21,10 +21,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/johnnyalmd/johnnyalmd/master/profile/streak.svg" alt="GitHub streak" />
-</div>
-
 ---
 
 ### Troféus
