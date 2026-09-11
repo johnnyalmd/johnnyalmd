@@ -12,16 +12,6 @@
 
 ---
 
-### Sobre
-
-Desenvolvedor backend focado em APIs, sistemas web e integrações. Trabalho no dia a dia com **Python/Django** e também com **PHP/Laravel**, além de bancos relacionais, filas e Docker.
-
-- Local: Brasil
-- Stack principal: Python, Django, PHP, Laravel, PostgreSQL, Docker
-- [LinkedIn](https://www.linkedin.com/in/johnny-almeida-b618281b9/)
-
----
-
 ### Stats
 
 <div align="center">
@@ -41,14 +31,6 @@ Desenvolvedor backend focado em APIs, sistemas web e integrações. Trabalho no 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/johnnyalmd/johnnyalmd/master/profile/trophy.svg" alt="GitHub trophies" />
-</div>
-
----
-
-### Atividade
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/johnnyalmd/johnnyalmd/master/profile-3d-contrib/profile-green-animate.svg" alt="Calendário de contribuições" />
 </div>
 
 ---
