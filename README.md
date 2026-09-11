@@ -25,14 +25,14 @@ Desenvolvedor backend focado em APIs, sistemas web e integrações. Trabalho no 
 ### Stats
 
 <div align="center">
-  <img height="180" src="./profile/stats.svg" alt="GitHub stats" />
-  <img height="180" src="./profile/top-langs.svg" alt="Linguagens mais usadas" />
+  <img height="180" src="https://raw.githubusercontent.com/johnnyalmd/johnnyalmd/master/profile/stats.svg" alt="GitHub stats" />
+  <img height="180" src="https://raw.githubusercontent.com/johnnyalmd/johnnyalmd/master/profile/top-langs.svg" alt="Linguagens mais usadas" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="./profile/streak.svg" alt="GitHub streak" />
+  <img src="https://raw.githubusercontent.com/johnnyalmd/johnnyalmd/master/profile/streak.svg" alt="GitHub streak" />
 </div>
 
 ---
@@ -40,7 +40,7 @@ Desenvolvedor backend focado em APIs, sistemas web e integrações. Trabalho no 
 ### Troféus
 
 <div align="center">
-  <img src="./profile/trophy.svg" alt="GitHub trophies" />
+  <img src="https://raw.githubusercontent.com/johnnyalmd/johnnyalmd/master/profile/trophy.svg" alt="GitHub trophies" />
 </div>
 
 ---
@@ -48,7 +48,7 @@ Desenvolvedor backend focado em APIs, sistemas web e integrações. Trabalho no 
 ### Atividade
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Calendário de contribuições" />
+  <img src="https://raw.githubusercontent.com/johnnyalmd/johnnyalmd/master/profile-3d-contrib/profile-night-rainbow.svg" alt="Calendário de contribuições" />
 </div>
 
 ---
