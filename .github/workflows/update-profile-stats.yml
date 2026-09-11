@@ -48,7 +48,7 @@ jobs:
           token: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Generate 3D contribution calendar
-        uses: yoshi389111/github-profile-3d-contrib@0.9.3
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
           USERNAME: johnnyalmd
