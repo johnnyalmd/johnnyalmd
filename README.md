@@ -24,16 +24,15 @@ Desenvolvedor backend focado em APIs, sistemas web e integrações. Trabalho no 
 
 ### Stats
 
-<!-- GitHub-Stats-Extended: sucessor mantido do github-readme-stats -->
 <div align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=johnnyalmd&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show=reviews,prs_merged&hide=issues&rank_icon=github&locale=pt-br" alt="GitHub stats" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=johnnyalmd&layout=compact&theme=onedark&hide_border=true&langs_count=8&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="180" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="180" src="./profile/top-langs.svg" alt="Linguagens mais usadas" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=johnnyalmd&theme=onedark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <img src="./profile/streak.svg" alt="GitHub streak" />
 </div>
 
 ---
@@ -41,7 +40,7 @@ Desenvolvedor backend focado em APIs, sistemas web e integrações. Trabalho no 
 ### Troféus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnnyalmd&theme=onedark&no-frame=true&column=7&margin-w=12&margin-h=8" alt="GitHub trophies" />
+  <img src="./profile/trophy.svg" alt="GitHub trophies" />
 </div>
 
 ---
@@ -49,7 +48,7 @@ Desenvolvedor backend focado em APIs, sistemas web e integrações. Trabalho no 
 ### Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnnyalmd&theme=one-dark&hide_border=true&area=true&custom_title=Contribui%C3%A7%C3%B5es%20recentes" alt="Gráfico de atividade" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Calendário de contribuições" />
 </div>
 
 ---
