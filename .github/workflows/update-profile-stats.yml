@@ -43,7 +43,7 @@ jobs:
       - name: Generate trophy card
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          options: username=johnnyalmd&theme=onedark&no-frame=true&column=7&margin-w=12&margin-h=8
+          options: username=johnnyalmd&theme=onedark&no-frame=true&column=7&margin-w=12&margin-h=8&rank=-UNKNOWN
           path: profile/trophy.svg
           token: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 

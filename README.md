@@ -48,7 +48,7 @@ Desenvolvedor backend focado em APIs, sistemas web e integrações. Trabalho no 
 ### Atividade
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/johnnyalmd/johnnyalmd/master/profile-3d-contrib/profile-night-rainbow.svg" alt="Calendário de contribuições" />
+  <img src="https://raw.githubusercontent.com/johnnyalmd/johnnyalmd/master/profile-3d-contrib/profile-green-animate.svg" alt="Calendário de contribuições" />
 </div>
 
 ---
