@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estat&#237;sticas do GitHub de Johnny Almeida Felisbino, Rank: B</title>
-        <desc id="descId">Total de estrelas: 2, Total de Commits  : 1928, Total de PRs: 286, Total de PRs Integrados: 263, Total de PRs revisados: 0, Contribuiu para (ano passado): 1</desc>
+        <desc id="descId">Total de estrelas: 2, Total de Commits  : 1938, Total de PRs: 287, Total de PRs Integrados: 265, Total de PRs revisados: 0, Contribuiu para (ano passado): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 150.75218139215986;
+        stroke-dashoffset: 150.65973349884183;
       }
     }
   
@@ -199,7 +199,7 @@
         x="274.01"
         y="12.5"
         data-testid="prs"
-      >286</text>
+      >287</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="274.01"
         y="12.5"
         data-testid="prs_merged"
-      >263</text>
+      >265</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
